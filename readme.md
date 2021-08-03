@@ -1,6 +1,6 @@
 ## Find Pair 
 
-Code for the following JavaScript interview question 
+Code for the following JavaScript interview question:
 
 **Create a function able to return information about the first pair of items inside an array whose sum equals a target number**
 
